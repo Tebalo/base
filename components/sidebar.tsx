@@ -40,7 +40,7 @@ export default function Sidebar(){
           <ul className=''>
           <li className='flex items-center justify-center hover:bg-gray-700 mb-7'>
               <Link 
-              className=''
+              className='py-2'
               href="/">
                 <PlusIcon
                   className='mr-2 w-8 h-8'
